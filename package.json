@@ -1,0 +1,16 @@
+{
+  "name": "initial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "development": "^0.0.6",
+    "electron": "5.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
